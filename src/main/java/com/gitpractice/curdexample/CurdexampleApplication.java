@@ -8,6 +8,8 @@ public class CurdexampleApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CurdexampleApplication.class, args);
+		
+		// comments by bhushan
 	}
 
 }
